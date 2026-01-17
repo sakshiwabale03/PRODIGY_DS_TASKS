@@ -1,15 +1,15 @@
-💬 Task 04 – Sentiment Analysis of Social Media Data
+Task 05 – Traffic Accident Data Analysis & Visualization
 
 📌 Task Overview
 
-Welcome to my submission for Task 04 of the Data Science Internship at Prodigy Infotech.
-In this task, I analyzed and visualized sentiment patterns in social media data to understand public opinion and attitudes toward specific topics or brands.
+Welcome to my submission for Task 05 of the Data Science Internship at Prodigy Infotech.
+In this task, I analyzed traffic accident data to identify patterns related to road conditions, weather, and time of day, and visualized accident hotspots along with key contributing factors.
 
 📂 Dataset
 
-Dataset Name: Social Media Sentiment Dataset
-Source: Prodigy Infotech Sample Dataset
+Dataset Name: US Accidents Dataset
+Source: Kaggle
 
 Link:
 
-https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%204
+https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
