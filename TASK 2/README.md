@@ -8,6 +8,8 @@ In this task, I performed data cleaning and exploratory data analysis (EDA) on a
 📂 Dataset
 
 Dataset Name: Titanic Dataset
+
 Source: Kaggle / Prodigy Infotech Sample Dataset
+
 Link:
 https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%202
