@@ -1,91 +1,32 @@
 
 📊 Task-01: Data Visualization using Bar Chart & Histogram
-📌 Objective
+📌 Description
 
-The objective of this task is to visualize the distribution of categorical and continuous variables using appropriate graphical techniques such as bar charts and histograms.
-These visualizations help in understanding population characteristics like gender distribution and age distribution in a dataset.
+This task focuses on visualizing the distribution of categorical and continuous variables using bar charts and histograms. It helps in understanding population characteristics such as gender and age distribution through effective data visualization.
 
 📂 Dataset
 
-The dataset used for this task is taken from the official Prodigy InfoTech repository:
-
-🔗 Sample Dataset:
+Dataset sourced from Prodigy InfoTech:
 https://github.com/Prodigy-InfoTech/data-science-datasets/tree/main/Task%201
 
-The dataset contains population-related information that allows analysis of variables such as:
-
-Country
-
-Gender (Male / Female)
-
-Age groups
-
-Population counts
-
-🛠️ Tools & Libraries Used
-
-The following Python libraries were used to perform data analysis and visualization:
+🛠️ Tools Used
 
 Python
 
-Pandas – for data loading and manipulation
+Pandas
 
-NumPy – for numerical operations
+NumPy
 
-Matplotlib – for basic plotting
+Matplotlib
 
-Seaborn – for enhanced visualization aesthetics
+Seaborn
 
-📈 Visualizations Performed
-1️⃣ Bar Chart
+📈 Visualizations
 
-Used to visualize categorical data
+Bar Chart – for categorical data (e.g., gender, country-wise population)
 
-Example: Distribution of population by gender or top countries
+Histogram – for continuous data (e.g., age distribution)
 
-Helps compare values across different categories
+✅ Conclusion
 
-2️⃣ Histogram
-
-Used to visualize continuous data
-
-Example: Distribution of ages
-
-Helps understand data spread, frequency, and skewness
-
-📑 Steps Followed
-
-Imported required Python libraries
-
-Loaded the dataset using Pandas
-
-Cleaned and prepared the data
-
-Selected relevant variables for visualization
-
-Created bar charts and histograms
-
-Added titles, labels, and legends for clarity
-
-✅ Results & Insights
-
-Bar charts clearly show comparisons between categorical variables
-
-Histograms reveal the distribution pattern of continuous data
-
-Visual analysis makes it easier to identify trends and population characteristics
-
-📁 Project Structure
-Task-01/
-│
-├── dataset/
-│   └── worldpopulationdata.csv
-│
-├── task01_visualization.ipynb
-│
-├── README.md
-
-🚀 Conclusion
-
-This task demonstrates the importance of data visualization in exploratory data analysis.
-Bar charts and histograms provide intuitive insights that support better decision-making and data understanding.
+Bar charts and histograms provide clear insights into data distribution, trends, and patterns, making them essential tools for exploratory data analysis.insights that support better decision-making and data understanding.
